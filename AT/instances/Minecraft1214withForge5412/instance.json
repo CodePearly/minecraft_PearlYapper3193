@@ -37,8 +37,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1741710501167,
-    "numPlays": 3
+    "lastPlayed": 1741713037937,
+    "numPlays": 4
   },
   "id": "1.21.4",
   "complianceLevel": 1,
@@ -231,8 +231,6 @@
   },
   "libraries": [
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forge:1.21.4-54.1.2:universal",
       "downloads": {
         "artifact": {
@@ -244,8 +242,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forge:1.21.4-54.1.2:client",
       "downloads": {
         "artifact": {
@@ -257,8 +253,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarFileSystems:0.3.26",
       "downloads": {
         "artifact": {
@@ -270,8 +264,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.google.guava:guava:32.1.2-jre",
       "downloads": {
         "artifact": {
@@ -283,8 +275,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.google.guava:failureaccess:1.0.1",
       "downloads": {
         "artifact": {
@@ -296,8 +286,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:securemodules:2.2.21",
       "downloads": {
         "artifact": {
@@ -309,8 +297,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:unsafe:0.9.2",
       "downloads": {
         "artifact": {
@@ -322,8 +308,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm:9.7.1",
       "downloads": {
         "artifact": {
@@ -335,8 +319,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-tree:9.7.1",
       "downloads": {
         "artifact": {
@@ -348,8 +330,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-util:9.7.1",
       "downloads": {
         "artifact": {
@@ -361,8 +341,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-commons:9.7.1",
       "downloads": {
         "artifact": {
@@ -374,8 +352,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-analysis:9.7.1",
       "downloads": {
         "artifact": {
@@ -387,8 +363,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "de.oceanlabs.mcp:mcp_config:1.21.4-20241203.143248:srg2off",
       "downloads": {
         "artifact": {
@@ -400,8 +374,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarFileSystems:0.3.26",
       "downloads": {
         "artifact": {
@@ -413,8 +385,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.google.guava:guava:32.1.2-jre",
       "downloads": {
         "artifact": {
@@ -426,8 +396,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.google.guava:failureaccess:1.0.1",
       "downloads": {
         "artifact": {
@@ -439,8 +407,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:securemodules:2.2.21",
       "downloads": {
         "artifact": {
@@ -452,8 +418,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:unsafe:0.9.2",
       "downloads": {
         "artifact": {
@@ -465,8 +429,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm:9.7.1",
       "downloads": {
         "artifact": {
@@ -478,8 +440,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-tree:9.7.1",
       "downloads": {
         "artifact": {
@@ -491,8 +451,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-util:9.7.1",
       "downloads": {
         "artifact": {
@@ -504,8 +462,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-commons:9.7.1",
       "downloads": {
         "artifact": {
@@ -517,8 +473,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-analysis:9.7.1",
       "downloads": {
         "artifact": {
@@ -530,8 +484,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:bootstrap:2.1.8",
       "downloads": {
         "artifact": {
@@ -543,8 +495,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:bootstrap-api:2.1.8",
       "downloads": {
         "artifact": {
@@ -556,8 +506,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:accesstransformers:8.2.2",
       "downloads": {
         "artifact": {
@@ -569,8 +517,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:eventbus:6.2.27",
       "downloads": {
         "artifact": {
@@ -582,8 +528,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.jodah:typetools:0.6.3",
       "downloads": {
         "artifact": {
@@ -595,8 +539,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forgespi:7.1.5",
       "downloads": {
         "artifact": {
@@ -608,8 +550,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:coremods:5.2.6",
       "downloads": {
         "artifact": {
@@ -621,8 +561,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.openjdk.nashorn:nashorn-core:15.4",
       "downloads": {
         "artifact": {
@@ -634,8 +572,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:modlauncher:10.2.4",
       "downloads": {
         "artifact": {
@@ -647,8 +583,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:mergetool-api:1.0",
       "downloads": {
         "artifact": {
@@ -660,8 +594,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:toml:3.7.4",
       "downloads": {
         "artifact": {
@@ -673,8 +605,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:core:3.7.4",
       "downloads": {
         "artifact": {
@@ -686,8 +616,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.maven:maven-artifact:3.8.8",
       "downloads": {
         "artifact": {
@@ -699,8 +627,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecrell:terminalconsoleappender:1.2.0",
       "downloads": {
         "artifact": {
@@ -712,8 +638,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-reader:3.25.1",
       "downloads": {
         "artifact": {
@@ -725,8 +649,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-terminal:3.25.1",
       "downloads": {
         "artifact": {
@@ -738,8 +660,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-terminal-jna:3.25.1",
       "downloads": {
         "artifact": {
@@ -751,8 +671,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.spongepowered:mixin:0.8.7",
       "downloads": {
         "artifact": {
@@ -764,8 +682,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarSelector:0.3.26",
       "downloads": {
         "artifact": {
@@ -777,8 +693,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarMetadata:0.3.26",
       "downloads": {
         "artifact": {
@@ -790,8 +704,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlcore:1.21.4-54.1.2",
       "downloads": {
         "artifact": {
@@ -803,8 +715,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlloader:1.21.4-54.1.2",
       "downloads": {
         "artifact": {
@@ -816,8 +726,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlearlydisplay:1.21.4-54.1.2",
       "downloads": {
         "artifact": {
@@ -829,8 +737,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:javafmllanguage:1.21.4-54.1.2",
       "downloads": {
         "artifact": {
@@ -842,8 +748,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:lowcodelanguage:1.21.4-54.1.2",
       "downloads": {
         "artifact": {
@@ -855,8 +759,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:mclanguage:1.21.4-54.1.2",
       "downloads": {
         "artifact": {
