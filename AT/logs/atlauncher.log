@@ -1,68 +1,54 @@
-16:26:16.913 [ATL-Logging-Thread] INFO  - Organising filesystem
+16:59:32.671 [ATL-Logging-Thread] INFO  - Organising filesystem
 
-16:26:17.270 [ATL-Logging-Thread] INFO  - ATLauncher Version: 3.4.38.2 [ec6ff701c19464cb227a7a2dba1ae7ecfe380bd0]
+16:59:32.954 [ATL-Logging-Thread] INFO  - ATLauncher Version: 3.4.38.2 [ec6ff701c19464cb227a7a2dba1ae7ecfe380bd0]
 
-16:26:17.270 [ATL-Logging-Thread] INFO  - App Arguments: []
+16:59:32.956 [ATL-Logging-Thread] INFO  - App Arguments: []
 
-16:26:17.270 [ATL-Logging-Thread] INFO  - JVM Arguments: []
+16:59:32.957 [ATL-Logging-Thread] INFO  - JVM Arguments: []
 
-16:26:17.270 [ATL-Logging-Thread] INFO  - Java Version: Java 23 (23.0.2)
+16:59:32.958 [ATL-Logging-Thread] INFO  - Java Version: Java 23 (23.0.2)
 
-16:26:17.270 [ATL-Logging-Thread] INFO  - Java Path: C:\Program Files\Java\jdk-17
+16:59:32.959 [ATL-Logging-Thread] INFO  - Java Path: C:\Program Files\Java\jdk-17
 
-16:26:17.270 [ATL-Logging-Thread] INFO  - 64 Bit Java: true
+16:59:32.960 [ATL-Logging-Thread] INFO  - 64 Bit Java: true
 
-16:26:17.301 [ATL-Logging-Thread] INFO  - RAM Available: 6096MB
+16:59:32.961 [ATL-Logging-Thread] INFO  - RAM Available: 6096MB
 
-16:26:17.316 [ATL-Logging-Thread] INFO  - Launcher Directory: **USERSDIR**
+16:59:32.985 [ATL-Logging-Thread] INFO  - Launcher Directory: **USERSDIR**
 
-16:26:18.567 [ATL-Logging-Thread] INFO  - GPU: Radeon(TM) RX 460 Graphics (Advanced Micro Devices, Inc. (0x1002)) DriverVersion=27.20.1034.6 4095MB VRAM
+16:59:35.540 [ATL-Logging-Thread] INFO  - GPU: Radeon(TM) RX 460 Graphics (Advanced Micro Devices, Inc. (0x1002)) DriverVersion=27.20.1034.6 4095MB VRAM
 
-16:26:18.582 [ATL-Logging-Thread] INFO  - GPU: Citrix Indirect Display Adapter (Citrix Systems Inc. (0x5853)) DriverVersion=12.40.44.247 0MB VRAM
+16:59:35.543 [ATL-Logging-Thread] INFO  - GPU: Citrix Indirect Display Adapter (Citrix Systems Inc. (0x5853)) DriverVersion=12.40.44.247 0MB VRAM
 
-16:26:18.755 [ATL-Logging-Thread] INFO  - CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz 4 cores/8 threads
+16:59:35.643 [ATL-Logging-Thread] INFO  - CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz 4 cores/8 threads
 
-16:26:18.847 [ATL-Logging-Thread] INFO  - Operating System: Windows (10 (Home) build 19045)
+16:59:35.720 [ATL-Logging-Thread] INFO  - Operating System: Windows (10 (Home) build 19045)
 
-16:26:18.850 [ATL-Logging-Thread] INFO  - Bitness: 64
+16:59:35.722 [ATL-Logging-Thread] INFO  - Bitness: 64
 
-16:26:18.854 [ATL-Logging-Thread] INFO  - Uptime: 167778
+16:59:35.723 [ATL-Logging-Thread] INFO  - Uptime: 169775
 
-16:26:18.857 [ATL-Logging-Thread] INFO  - Manufacturer: Microsoft
+16:59:35.725 [ATL-Logging-Thread] INFO  - Manufacturer: Microsoft
 
-16:26:25.426 [ATL-Logging-Thread] INFO  - Showing splash screen and loading everything
+16:59:42.434 [ATL-Logging-Thread] INFO  - Showing splash screen and loading everything
 
-16:26:25.426 [ATL-Logging-Thread] INFO  - Checking for updated files!
+16:59:42.438 [ATL-Logging-Thread] INFO  - Checking for updated files!
 
-16:26:26.695 [ATL-Logging-Thread] INFO  - Finished downloading updated files!
+16:59:44.228 [ATL-Logging-Thread] INFO  - Launcher finished loading everything
 
-16:26:27.218 [ATL-Logging-Thread] INFO  - Launcher finished loading everything
+16:59:44.234 [ATL-Logging-Thread] INFO  - Launcher opening
 
-16:26:27.228 [ATL-Logging-Thread] INFO  - Launcher opening
+16:59:44.235 [ATL-Logging-Thread] INFO  - Made By Bob*
 
-16:26:27.229 [ATL-Logging-Thread] INFO  - Made By Bob*
+16:59:44.235 [ATL-Logging-Thread] INFO  - *(Not Actually)
 
-16:26:27.229 [ATL-Logging-Thread] INFO  - *(Not Actually)
+16:59:44.240 [ATL-Logging-Thread] INFO  - Setting up Bottom Bar
 
-16:26:27.234 [ATL-Logging-Thread] INFO  - Setting up Bottom Bar
+16:59:44.322 [ATL-Logging-Thread] INFO  - Finished Setting up Bottom Bar
 
-16:26:27.315 [ATL-Logging-Thread] INFO  - Finished Setting up Bottom Bar
+16:59:44.323 [ATL-Logging-Thread] INFO  - Setting up Tabs
 
-16:26:27.315 [ATL-Logging-Thread] INFO  - Setting up Tabs
+16:59:45.062 [ATL-Logging-Thread] INFO  - Finished Setting up Tabs
 
-16:26:29.240 [ATL-Logging-Thread] INFO  - Finished Setting up Tabs
-
-16:26:29.267 [ATL-Logging-Thread] INFO  - Showing Launcher
-
-16:26:49.534 [ATL-Logging-Thread] INFO  - Preparing for launch!
-
-16:28:21.290 [ATL-Logging-Thread] INFO  - Launching pack Minecraft 1.21.4 (Vanilla) for Minecraft 1.21.4
-
-16:28:21.291 [ATL-Logging-Thread] INFO  - Logging into Minecraft!
-
-16:28:21.323 [ATL-Logging-Thread] INFO  - Using Java runtime java-runtime-delta (Java 21.0.3) at path **USERSDIR**\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta
-
-16:28:23.187 [ATL-Logging-Thread] INFO  - Loader: Fabric 0.16.10
-
-16:28:23.189 [ATL-Logging-Thread] INFO  - Launching Minecraft with the following arguments (user related stuff has been removed): [USERSDIR\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta\bin\javaw, -Xmx4096M, -XX:MetaspaceSize=256M, -Duser.language=en, -Duser.country=US, -Dlog4j.configurationFile=USERSDIR\assets\log_configs\client-1.21.2.xml, -XX:+UnlockExperimentalVMOptions, -XX:+UseG1GC, -XX:G1NewSizePercent=20, -XX:G1ReservePercent=20, -XX:MaxGCPauseMillis=50, -XX:G1HeapRegionSize=32M, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xss1M, -Djava.library.path=USERSDIR\temp\natives-27dccf2aeb994d07a178ea9002ad8f41, -Djna.tmpdir=USERSDIR\temp\natives-27dccf2aeb994d07a178ea9002ad8f41, -Dorg.lwjgl.system.SharedLibraryExtractPath=USERSDIR\temp\natives-27dccf2aeb994d07a178ea9002ad8f41, -Dio.netty.native.workdir=USERSDIR\temp\natives-27dccf2aeb994d07a178ea9002ad8f41, -Dminecraft.launcher.brand=ATLauncher, -Dminecraft.launcher.version=3.4.38.2, -cp, USERSDIR\libraries\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-analysis\9.7.1\asm-analysis-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-commons\9.7.1\asm-commons-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-tree\9.7.1\asm-tree-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-util\9.7.1\asm-util-9.7.1.jar;USERSDIR\libraries\net\fabricmc\sponge-mixin\0.15.4+mixin.0.8.7\sponge-mixin-0.15.4+mixin.0.8.7.jar;USERSDIR\libraries\net\fabricmc\intermediary\1.21.4\intermediary-1.21.4.jar;USERSDIR\libraries\net\fabricmc\fabric-loader\0.16.10\fabric-loader-0.16.10.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-databind\2.13.4.2\jackson-databind-2.13.4.2.jar;USERSDIR\libraries\com\github\oshi\oshi-core\6.6.5\oshi-core-6.6.5.jar;USERSDIR\libraries\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar;USERSDIR\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;USERSDIR\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;USERSDIR\libraries\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;USERSDIR\libraries\com\ibm\icu\icu4j\76.1\icu4j-76.1.jar;USERSDIR\libraries\com\microsoft\azure\msal4j\1.17.2\msal4j-1.17.2.jar;USERSDIR\libraries\com\mojang\authlib\6.0.57\authlib-6.0.57.jar;USERSDIR\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;USERSDIR\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;USERSDIR\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;USERSDIR\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29.jar;USERSDIR\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29-natives-windows.jar;USERSDIR\libraries\com\mojang\logging\1.5.10\logging-1.5.10.jar;USERSDIR\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;USERSDIR\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;USERSDIR\libraries\com\nimbusds\content-type\2.3\content-type-2.3.jar;USERSDIR\libraries\com\nimbusds\lang-tag\1.7\lang-tag-1.7.jar;USERSDIR\libraries\com\nimbusds\nimbus-jose-jwt\9.40\nimbus-jose-jwt-9.40.jar;USERSDIR\libraries\com\nimbusds\oauth2-oidc-sdk\11.18\oauth2-oidc-sdk-11.18.jar;USERSDIR\libraries\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;USERSDIR\libraries\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar;USERSDIR\libraries\commons-logging\commons-logging\1.3.4\commons-logging-1.3.4.jar;USERSDIR\libraries\io\netty\netty-buffer\4.1.115.Final\netty-buffer-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-codec\4.1.115.Final\netty-codec-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-common\4.1.115.Final\netty-common-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-handler\4.1.115.Final\netty-handler-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-resolver\4.1.115.Final\netty-resolver-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-transport-classes-epoll\4.1.115.Final\netty-transport-classes-epoll-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-transport-native-unix-common\4.1.115.Final\netty-transport-native-unix-common-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-transport\4.1.115.Final\netty-transport-4.1.115.Final.jar;USERSDIR\libraries\it\unimi\dsi\fastutil\8.5.15\fastutil-8.5.15.jar;USERSDIR\libraries\net\java\dev\jna\jna-platform\5.15.0\jna-platform-5.15.0.jar;USERSDIR\libraries\net\java\dev\jna\jna\5.15.0\jna-5.15.0.jar;USERSDIR\libraries\net\minidev\accessors-smart\2.5.1\accessors-smart-2.5.1.jar;USERSDIR\libraries\net\minidev\json-smart\2.5.1\json-smart-2.5.1.jar;USERSDIR\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;USERSDIR\libraries\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;USERSDIR\libraries\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar;USERSDIR\libraries\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;USERSDIR\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.24.1\log4j-slf4j2-impl-2.24.1.jar;USERSDIR\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;USERSDIR\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;USERSDIR\libraries\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;USERSDIR\libraries\net\minecraft\client\1.21.4\client-1.21.4.jar, -DFabricMcEmu= net.minecraft.client.main.Main , net.fabricmc.loader.impl.launch.knot.KnotClient, --username, REDACTED, --version, 1.21.4, --gameDir, USERSDIR\instances\Minecraft1214withFabric01610, --assetsDir, USERSDIR\assets, --assetIndex, 19, --uuid, REDACTED, --accessToken, REDACTED, --userType, msa, --versionType, release, --width=854, --height=480]
+16:59:45.083 [ATL-Logging-Thread] INFO  - Showing Launcher
 
