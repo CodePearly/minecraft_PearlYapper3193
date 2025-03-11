@@ -1,0 +1,37 @@
+[16:13:31] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[16:13:31] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[16:13:31] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.10
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.4
+[16:13:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/willi_000/GitHub/minecraft_PearlYapper3193/AT/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[16:13:34] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 594 milliseconds
+[16:13:39] [main/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[16:13:39] [main/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[16:13:39] [main/INFO]: Disabling further attempts to query Paging File.
+[16:13:42] [main/WARN]: COM exception: Invalid Query: SELECT PERCENTUSAGE FROM Win32_PerfRawData_PerfOS_PagingFile
+[16:13:54] [main/INFO]: Completely ignored arguments: []
+[16:13:54] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:13:54] [Render thread/INFO]: Setting user: PearlYapper3193
+[16:13:54] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[16:13:57] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[16:13:57] [Worker-Main-3/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[16:13:58] [Worker-Main-3/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[16:14:00] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek High Definition Audio)
+[16:14:00] [Render thread/INFO]: Sound engine started
+[16:14:00] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:14:00] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[16:14:04] [Render thread/INFO]: Stopping!

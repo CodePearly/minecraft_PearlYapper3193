@@ -1,0 +1,106 @@
+16:08:26.746 [ATL-Logging-Thread] INFO  - Organising filesystem
+
+16:08:27.011 [ATL-Logging-Thread] INFO  - ATLauncher Version: 3.4.38.2 [ec6ff701c19464cb227a7a2dba1ae7ecfe380bd0]
+
+16:08:27.014 [ATL-Logging-Thread] INFO  - App Arguments: []
+
+16:08:27.017 [ATL-Logging-Thread] INFO  - JVM Arguments: []
+
+16:08:27.027 [ATL-Logging-Thread] INFO  - Java Version: Java 23 (23.0.2)
+
+16:08:27.027 [ATL-Logging-Thread] INFO  - Java Path: C:\Program Files\Java\jdk-17
+
+16:08:27.044 [ATL-Logging-Thread] INFO  - 64 Bit Java: true
+
+16:08:27.044 [ATL-Logging-Thread] INFO  - RAM Available: 6096MB
+
+16:08:27.044 [ATL-Logging-Thread] INFO  - Launcher Directory: **USERSDIR**
+
+16:08:27.301 [ATL-Logging-Thread] INFO  - GPU: Radeon(TM) RX 460 Graphics (Advanced Micro Devices, Inc. (0x1002)) DriverVersion=27.20.1034.6 4095MB VRAM
+
+16:08:27.306 [ATL-Logging-Thread] INFO  - GPU: Citrix Indirect Display Adapter (Citrix Systems Inc. (0x5853)) DriverVersion=12.40.44.247 0MB VRAM
+
+16:08:27.437 [ATL-Logging-Thread] INFO  - CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz 4 cores/8 threads
+
+16:08:27.472 [ATL-Logging-Thread] INFO  - Operating System: Windows (10 (Home) build 19045)
+
+16:08:27.474 [ATL-Logging-Thread] INFO  - Bitness: 64
+
+16:08:27.477 [ATL-Logging-Thread] INFO  - Uptime: 166710
+
+16:08:27.485 [ATL-Logging-Thread] INFO  - Manufacturer: Microsoft
+
+16:08:33.984 [ATL-Logging-Thread] INFO  - Showing splash screen and loading everything
+
+16:08:33.984 [ATL-Logging-Thread] INFO  - Checking for updated files!
+
+16:08:35.717 [ATL-Logging-Thread] INFO  - Finished downloading updated files!
+
+16:08:36.450 [ATL-Logging-Thread] INFO  - Launcher finished loading everything
+
+16:08:36.463 [ATL-Logging-Thread] INFO  - Launcher opening
+
+16:08:36.464 [ATL-Logging-Thread] INFO  - Made By Bob*
+
+16:08:36.464 [ATL-Logging-Thread] INFO  - *(Not Actually)
+
+16:08:36.475 [ATL-Logging-Thread] INFO  - Setting up Bottom Bar
+
+16:08:36.582 [ATL-Logging-Thread] INFO  - Finished Setting up Bottom Bar
+
+16:08:36.583 [ATL-Logging-Thread] INFO  - Setting up Tabs
+
+16:08:37.786 [ATL-Logging-Thread] INFO  - Finished Setting up Tabs
+
+16:08:37.817 [ATL-Logging-Thread] INFO  - Showing Launcher
+
+16:09:51.501 [ATL-Logging-Thread] INFO  - Started install of Minecraft version 1.21.4
+
+16:09:51.502 [ATL-Logging-Thread] INFO  - Using loader version 0.16.10
+
+16:09:51.663 [ATL-Logging-Thread] ERROR - java.io.IOException: The system cannot find the path specified
+
+16:09:51.664 [ATL-Logging-Thread] ERROR - 	at java.base/java.io.WinNTFileSystem.createFileExclusively0(Native Method)
+
+16:09:51.665 [ATL-Logging-Thread] ERROR - 	at java.base/java.io.WinNTFileSystem.createFileExclusively(WinNTFileSystem.java:536)
+
+16:09:51.668 [ATL-Logging-Thread] ERROR - 	at java.base/java.io.File.createNewFile(File.java:1045)
+
+16:09:51.668 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.utils.Utils.copyFile(Utils.java:300)
+
+16:09:51.669 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.utils.Utils.copyFile(Utils.java:261)
+
+16:09:51.670 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.workers.InstanceInstaller.backupSelectFiles(InstanceInstaller.java:3854)
+
+16:09:51.671 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.workers.InstanceInstaller.doInBackground(InstanceInstaller.java:359)
+
+16:09:51.673 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.workers.InstanceInstaller.doInBackground(InstanceInstaller.java:152)
+
+16:09:51.674 [ATL-Logging-Thread] ERROR - 	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:305)
+
+16:09:51.674 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+
+16:09:51.675 [ATL-Logging-Thread] ERROR - 	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:342)
+
+16:09:51.677 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+
+16:09:51.678 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+
+16:09:51.679 [ATL-Logging-Thread] ERROR - 	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+16:09:51.685 [ATL-Logging-Thread] ERROR - java.io.IOException: The system cannot find the path specified
+	at java.base/java.io.WinNTFileSystem.createFileExclusively0(Native Method)
+	at java.base/java.io.WinNTFileSystem.createFileExclusively(WinNTFileSystem.java:536)
+	at java.base/java.io.File.createNewFile(File.java:1045)
+	at com.atlauncher.utils.Utils.copyFile(Utils.java:300)
+	at com.atlauncher.utils.Utils.copyFile(Utils.java:261)
+	at com.atlauncher.workers.InstanceInstaller.backupSelectFiles(InstanceInstaller.java:3854)
+	at com.atlauncher.workers.InstanceInstaller.doInBackground(InstanceInstaller.java:359)
+	at com.atlauncher.workers.InstanceInstaller.doInBackground(InstanceInstaller.java:152)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:305)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:342)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+

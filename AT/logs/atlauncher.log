@@ -1,382 +1,68 @@
-07:24:58.912 [ATL-Logging-Thread] INFO  - Organising filesystem
+16:12:49.375 [ATL-Logging-Thread] INFO  - Organising filesystem
 
-07:24:59.178 [ATL-Logging-Thread] INFO  - ATLauncher Version: 3.4.38.2 [ec6ff701c19464cb227a7a2dba1ae7ecfe380bd0]
+16:12:49.675 [ATL-Logging-Thread] INFO  - ATLauncher Version: 3.4.38.2 [ec6ff701c19464cb227a7a2dba1ae7ecfe380bd0]
 
-07:24:59.178 [ATL-Logging-Thread] INFO  - App Arguments: []
+16:12:49.675 [ATL-Logging-Thread] INFO  - App Arguments: []
 
-07:24:59.194 [ATL-Logging-Thread] INFO  - JVM Arguments: []
+16:12:49.675 [ATL-Logging-Thread] INFO  - JVM Arguments: []
 
-07:24:59.195 [ATL-Logging-Thread] INFO  - Java Version: Java 23 (23.0.2)
+16:12:49.675 [ATL-Logging-Thread] INFO  - Java Version: Java 23 (23.0.2)
 
-07:24:59.195 [ATL-Logging-Thread] INFO  - Java Path: C:\Program Files\Java\jdk-17
+16:12:49.675 [ATL-Logging-Thread] INFO  - Java Path: C:\Program Files\Java\jdk-17
 
-07:24:59.195 [ATL-Logging-Thread] INFO  - 64 Bit Java: true
+16:12:49.692 [ATL-Logging-Thread] INFO  - 64 Bit Java: true
 
-07:24:59.195 [ATL-Logging-Thread] INFO  - RAM Available: 6096MB
+16:12:49.709 [ATL-Logging-Thread] INFO  - RAM Available: 6096MB
 
-07:24:59.195 [ATL-Logging-Thread] INFO  - Launcher Directory: **USERSDIR**
+16:12:49.709 [ATL-Logging-Thread] INFO  - Launcher Directory: **USERSDIR**
 
-07:24:59.412 [ATL-Logging-Thread] INFO  - GPU: Radeon(TM) RX 460 Graphics (Advanced Micro Devices, Inc. (0x1002)) DriverVersion=27.20.1034.6 4095MB VRAM
+16:12:51.944 [ATL-Logging-Thread] INFO  - GPU: Radeon(TM) RX 460 Graphics (Advanced Micro Devices, Inc. (0x1002)) DriverVersion=27.20.1034.6 4095MB VRAM
 
-07:24:59.412 [ATL-Logging-Thread] INFO  - GPU: Citrix Indirect Display Adapter (Citrix Systems Inc. (0x5853)) DriverVersion=12.40.44.247 0MB VRAM
+16:12:51.944 [ATL-Logging-Thread] INFO  - GPU: Citrix Indirect Display Adapter (Citrix Systems Inc. (0x5853)) DriverVersion=12.40.44.247 0MB VRAM
 
-07:24:59.479 [ATL-Logging-Thread] INFO  - CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz 4 cores/8 threads
+16:12:52.044 [ATL-Logging-Thread] INFO  - CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz 4 cores/8 threads
 
-07:24:59.529 [ATL-Logging-Thread] INFO  - Operating System: Windows (10 (Home) build 19045)
+16:12:52.111 [ATL-Logging-Thread] INFO  - Operating System: Windows (10 (Home) build 19045)
 
-07:24:59.529 [ATL-Logging-Thread] INFO  - Bitness: 64
+16:12:52.111 [ATL-Logging-Thread] INFO  - Bitness: 64
 
-07:24:59.529 [ATL-Logging-Thread] INFO  - Uptime: 135302
+16:12:52.111 [ATL-Logging-Thread] INFO  - Uptime: 166974
 
-07:24:59.546 [ATL-Logging-Thread] INFO  - Manufacturer: Microsoft
+16:12:52.111 [ATL-Logging-Thread] INFO  - Manufacturer: Microsoft
 
-07:25:18.998 [ATL-Logging-Thread] INFO  - Showing splash screen and loading everything
+16:12:58.067 [ATL-Logging-Thread] INFO  - Showing splash screen and loading everything
 
-07:25:18.998 [ATL-Logging-Thread] INFO  - Checking for updated files!
+16:12:58.082 [ATL-Logging-Thread] INFO  - Checking for updated files!
 
-07:25:30.427 [ATL-Logging-Thread] INFO  - Finished downloading updated files!
+16:12:59.697 [ATL-Logging-Thread] INFO  - Launcher finished loading everything
 
-07:25:30.783 [ATL-Logging-Thread] INFO  - Launcher finished loading everything
+16:12:59.709 [ATL-Logging-Thread] INFO  - Launcher opening
 
-07:25:30.787 [ATL-Logging-Thread] WARN  - Launcher not setup. Loading Setup Dialog
+16:12:59.710 [ATL-Logging-Thread] INFO  - Made By Bob*
 
-07:25:33.733 [ATL-Logging-Thread] INFO  - Launcher opening
+16:12:59.710 [ATL-Logging-Thread] INFO  - *(Not Actually)
 
-07:25:33.734 [ATL-Logging-Thread] INFO  - Made By Bob*
+16:12:59.714 [ATL-Logging-Thread] INFO  - Setting up Bottom Bar
 
-07:25:33.735 [ATL-Logging-Thread] INFO  - *(Not Actually)
+16:12:59.791 [ATL-Logging-Thread] INFO  - Finished Setting up Bottom Bar
 
-07:25:33.739 [ATL-Logging-Thread] INFO  - Setting up Bottom Bar
+16:12:59.792 [ATL-Logging-Thread] INFO  - Setting up Tabs
 
-07:25:33.777 [ATL-Logging-Thread] INFO  - Finished Setting up Bottom Bar
+16:13:00.352 [ATL-Logging-Thread] INFO  - Finished Setting up Tabs
 
-07:25:33.777 [ATL-Logging-Thread] INFO  - Setting up Tabs
+16:13:00.367 [ATL-Logging-Thread] INFO  - Showing Launcher
 
-07:25:34.256 [ATL-Logging-Thread] INFO  - Finished Setting up Tabs
+16:13:08.305 [ATL-Logging-Thread] INFO  - Preparing for launch!
 
-07:25:34.274 [ATL-Logging-Thread] INFO  - Showing Launcher
+16:13:12.095 [ATL-Logging-Thread] INFO  - Launching pack Minecraft 1.21.4 (Vanilla) for Minecraft 1.21.4
 
-07:25:51.251 [ATL-Logging-Thread] INFO  - Added Microsoft Account PearlYapper3193
+16:13:12.096 [ATL-Logging-Thread] INFO  - Logging into Minecraft!
 
-07:25:51.628 [ATL-Logging-Thread] INFO  - Changed account to PearlYapper3193
+16:13:12.159 [ATL-Logging-Thread] INFO  - Using Java runtime java-runtime-delta (Java 21.0.3) at path **USERSDIR**\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta
 
-07:25:51.692 [ATL-Logging-Thread] INFO  - Downloading skin for PearlYapper3193
+16:13:13.777 [ATL-Logging-Thread] INFO  - Loader: Fabric 0.16.10
 
-07:29:36.483 [ATL-Logging-Thread] INFO  - Started install of Minecraft version 1.21.4
+16:13:13.778 [ATL-Logging-Thread] INFO  - Launching Minecraft with the following arguments (user related stuff has been removed): [USERSDIR\runtimes\minecraft\java-runtime-delta\windows-x64\java-runtime-delta\bin\javaw, -Xmx4096M, -XX:MetaspaceSize=256M, -Duser.language=en, -Duser.country=US, -Dlog4j.configurationFile=USERSDIR\assets\log_configs\client-1.21.2.xml, -XX:+UnlockExperimentalVMOptions, -XX:+UseG1GC, -XX:G1NewSizePercent=20, -XX:G1ReservePercent=20, -XX:MaxGCPauseMillis=50, -XX:G1HeapRegionSize=32M, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xss1M, -Djava.library.path=USERSDIR\temp\natives-0cf84b1afd2943f48f10c2c29d5258e4, -Djna.tmpdir=USERSDIR\temp\natives-0cf84b1afd2943f48f10c2c29d5258e4, -Dorg.lwjgl.system.SharedLibraryExtractPath=USERSDIR\temp\natives-0cf84b1afd2943f48f10c2c29d5258e4, -Dio.netty.native.workdir=USERSDIR\temp\natives-0cf84b1afd2943f48f10c2c29d5258e4, -Dminecraft.launcher.brand=ATLauncher, -Dminecraft.launcher.version=3.4.38.2, -cp, USERSDIR\libraries\org\ow2\asm\asm\9.7.1\asm-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-analysis\9.7.1\asm-analysis-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-commons\9.7.1\asm-commons-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-tree\9.7.1\asm-tree-9.7.1.jar;USERSDIR\libraries\org\ow2\asm\asm-util\9.7.1\asm-util-9.7.1.jar;USERSDIR\libraries\net\fabricmc\sponge-mixin\0.15.4+mixin.0.8.7\sponge-mixin-0.15.4+mixin.0.8.7.jar;USERSDIR\libraries\net\fabricmc\intermediary\1.21.4\intermediary-1.21.4.jar;USERSDIR\libraries\net\fabricmc\fabric-loader\0.16.10\fabric-loader-0.16.10.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;USERSDIR\libraries\com\fasterxml\jackson\core\jackson-databind\2.13.4.2\jackson-databind-2.13.4.2.jar;USERSDIR\libraries\com\github\oshi\oshi-core\6.6.5\oshi-core-6.6.5.jar;USERSDIR\libraries\com\github\stephenc\jcip\jcip-annotations\1.0-1\jcip-annotations-1.0-1.jar;USERSDIR\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;USERSDIR\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;USERSDIR\libraries\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;USERSDIR\libraries\com\ibm\icu\icu4j\76.1\icu4j-76.1.jar;USERSDIR\libraries\com\microsoft\azure\msal4j\1.17.2\msal4j-1.17.2.jar;USERSDIR\libraries\com\mojang\authlib\6.0.57\authlib-6.0.57.jar;USERSDIR\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;USERSDIR\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;USERSDIR\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;USERSDIR\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29.jar;USERSDIR\libraries\com\mojang\jtracy\1.0.29\jtracy-1.0.29-natives-windows.jar;USERSDIR\libraries\com\mojang\logging\1.5.10\logging-1.5.10.jar;USERSDIR\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;USERSDIR\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;USERSDIR\libraries\com\nimbusds\content-type\2.3\content-type-2.3.jar;USERSDIR\libraries\com\nimbusds\lang-tag\1.7\lang-tag-1.7.jar;USERSDIR\libraries\com\nimbusds\nimbus-jose-jwt\9.40\nimbus-jose-jwt-9.40.jar;USERSDIR\libraries\com\nimbusds\oauth2-oidc-sdk\11.18\oauth2-oidc-sdk-11.18.jar;USERSDIR\libraries\commons-codec\commons-codec\1.17.1\commons-codec-1.17.1.jar;USERSDIR\libraries\commons-io\commons-io\2.17.0\commons-io-2.17.0.jar;USERSDIR\libraries\commons-logging\commons-logging\1.3.4\commons-logging-1.3.4.jar;USERSDIR\libraries\io\netty\netty-buffer\4.1.115.Final\netty-buffer-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-codec\4.1.115.Final\netty-codec-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-common\4.1.115.Final\netty-common-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-handler\4.1.115.Final\netty-handler-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-resolver\4.1.115.Final\netty-resolver-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-transport-classes-epoll\4.1.115.Final\netty-transport-classes-epoll-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-transport-native-unix-common\4.1.115.Final\netty-transport-native-unix-common-4.1.115.Final.jar;USERSDIR\libraries\io\netty\netty-transport\4.1.115.Final\netty-transport-4.1.115.Final.jar;USERSDIR\libraries\it\unimi\dsi\fastutil\8.5.15\fastutil-8.5.15.jar;USERSDIR\libraries\net\java\dev\jna\jna-platform\5.15.0\jna-platform-5.15.0.jar;USERSDIR\libraries\net\java\dev\jna\jna\5.15.0\jna-5.15.0.jar;USERSDIR\libraries\net\minidev\accessors-smart\2.5.1\accessors-smart-2.5.1.jar;USERSDIR\libraries\net\minidev\json-smart\2.5.1\json-smart-2.5.1.jar;USERSDIR\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;USERSDIR\libraries\org\apache\commons\commons-compress\1.27.1\commons-compress-1.27.1.jar;USERSDIR\libraries\org\apache\commons\commons-lang3\3.17.0\commons-lang3-3.17.0.jar;USERSDIR\libraries\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;USERSDIR\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;USERSDIR\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.24.1\log4j-slf4j2-impl-2.24.1.jar;USERSDIR\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;USERSDIR\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;USERSDIR\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;USERSDIR\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;USERSDIR\libraries\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;USERSDIR\libraries\net\minecraft\client\1.21.4\client-1.21.4.jar, -DFabricMcEmu= net.minecraft.client.main.Main , net.fabricmc.loader.impl.launch.knot.KnotClient, --username, REDACTED, --version, 1.21.4, --gameDir, USERSDIR\instances\Minecraft1214withFabric01610, --assetsDir, USERSDIR\assets, --assetIndex, 19, --uuid, REDACTED, --accessToken, REDACTED, --userType, msa, --versionType, release, --width=854, --height=480]
 
-07:29:36.484 [ATL-Logging-Thread] INFO  - Using loader version 0.16.10
-
-07:34:26.794 [ATL-Logging-Thread] ERROR - Error trying to download 8ee9d608f0bbb2d0513af7bfc1b55e591ada05ea
-
-07:34:26.796 [ATL-Logging-Thread] ERROR - java.net.SocketException: Network is unreachable: getsockopt
-
-07:34:26.797 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-
-07:34:26.798 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
-
-07:34:26.799 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-
-07:34:26.799 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
-
-07:34:26.803 [ATL-Logging-Thread] ERROR - 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-
-07:34:26.806 [ATL-Logging-Thread] ERROR - 	at java.base/java.net.Socket.connect(Socket.java:760)
-
-07:34:26.807 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128)
-
-07:34:26.807 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
-
-07:34:26.808 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207)
-
-07:34:26.810 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
-
-07:34:26.811 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
-
-07:34:26.813 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
-
-07:34:26.814 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
-
-07:34:26.815 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
-
-07:34:26.816 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.819 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
-
-07:34:26.819 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.823 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
-
-07:34:26.824 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.825 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
-
-07:34:26.826 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.828 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.DebugLoggingInterceptor.intercept(DebugLoggingInterceptor.java:46)
-
-07:34:26.829 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.830 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
-
-07:34:26.831 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154)
-
-07:34:26.832 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.Download.execute(Download.java:328)
-
-07:34:26.834 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.Download.downloadFile(Download.java:620)
-
-07:34:26.835 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.Download.downloadFile(Download.java:576)
-
-07:34:26.837 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.DownloadPool$Downloader.run(DownloadPool.java:123)
-
-07:34:26.838 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-
-07:34:26.839 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-
-07:34:26.840 [ATL-Logging-Thread] ERROR - 	at java.base/java.lang.Thread.run(Thread.java:1575)
-
-07:34:26.841 [ATL-Logging-Thread] ERROR - 	Suppressed: java.io.IOException: unexpected end of stream on https://resources.download.minecraft.net/...
-
-07:34:26.842 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:210)
-
-07:34:26.844 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
-
-07:34:26.844 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
-
-07:34:26.846 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.847 [ATL-Logging-Thread] ERROR - 		at com.atlauncher.Network.lambda$createProgressClient$1(Network.java:108)
-
-07:34:26.848 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.849 [ATL-Logging-Thread] ERROR - 		at com.atlauncher.network.ErrorReportingInterceptor.intercept(ErrorReportingInterceptor.java:32)
-
-07:34:26.851 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.852 [ATL-Logging-Thread] ERROR - 		at com.atlauncher.network.UserAgentInterceptor.intercept(UserAgentInterceptor.java:41)
-
-07:34:26.853 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:26.855 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
-
-07:34:26.856 [ATL-Logging-Thread] ERROR - 		... 18 more
-
-07:34:26.857 [ATL-Logging-Thread] ERROR - 	Caused by: java.io.EOFException: \n not found: limit=0 content=…
-
-07:34:26.866 [ATL-Logging-Thread] ERROR - 		at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.kt:332)
-
-07:34:26.869 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http1.HeadersReader.readLine(HeadersReader.kt:29)
-
-07:34:26.871 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:180)
-
-07:34:26.872 [ATL-Logging-Thread] ERROR - 		... 28 more
-
-07:34:26.875 [ATL-Logging-Thread] ERROR - java.net.SocketException: Network is unreachable: getsockopt
-	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
-	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:760)
-	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128)
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
-	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207)
-	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
-	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
-	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
-	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
-	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at com.atlauncher.network.DebugLoggingInterceptor.intercept(DebugLoggingInterceptor.java:46)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
-	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154)
-	at com.atlauncher.network.Download.execute(Download.java:328)
-	at com.atlauncher.network.Download.downloadFile(Download.java:620)
-	at com.atlauncher.network.Download.downloadFile(Download.java:576)
-	at com.atlauncher.network.DownloadPool$Downloader.run(DownloadPool.java:123)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1575)
-	Suppressed: java.io.IOException: unexpected end of stream on https://resources.download.minecraft.net/...
-		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:210)
-		at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
-		at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at com.atlauncher.Network.lambda$createProgressClient$1(Network.java:108)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at com.atlauncher.network.ErrorReportingInterceptor.intercept(ErrorReportingInterceptor.java:32)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at com.atlauncher.network.UserAgentInterceptor.intercept(UserAgentInterceptor.java:41)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
-		... 18 more
-	Caused by: java.io.EOFException: \n not found: limit=0 content=…
-		at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.kt:332)
-		at okhttp3.internal.http1.HeadersReader.readLine(HeadersReader.kt:29)
-		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:180)
-		... 28 more
-
-07:34:36.266 [ATL-Logging-Thread] ERROR - Error trying to download 7f7777e5d5b163c5d64201fd53e5682599548a49
-
-07:34:36.267 [ATL-Logging-Thread] ERROR - java.net.SocketException: Network is unreachable: getsockopt
-
-07:34:36.268 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-
-07:34:36.269 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
-
-07:34:36.270 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-
-07:34:36.270 [ATL-Logging-Thread] ERROR - 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
-
-07:34:36.271 [ATL-Logging-Thread] ERROR - 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-
-07:34:36.273 [ATL-Logging-Thread] ERROR - 	at java.base/java.net.Socket.connect(Socket.java:760)
-
-07:34:36.274 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128)
-
-07:34:36.275 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
-
-07:34:36.276 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207)
-
-07:34:36.277 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
-
-07:34:36.278 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
-
-07:34:36.278 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
-
-07:34:36.279 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
-
-07:34:36.280 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
-
-07:34:36.280 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.282 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
-
-07:34:36.283 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.284 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
-
-07:34:36.284 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.285 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
-
-07:34:36.286 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.286 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.DebugLoggingInterceptor.intercept(DebugLoggingInterceptor.java:46)
-
-07:34:36.287 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.288 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
-
-07:34:36.289 [ATL-Logging-Thread] ERROR - 	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154)
-
-07:34:36.290 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.Download.execute(Download.java:328)
-
-07:34:36.290 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.Download.downloadFile(Download.java:620)
-
-07:34:36.291 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.Download.downloadFile(Download.java:576)
-
-07:34:36.292 [ATL-Logging-Thread] ERROR - 	at com.atlauncher.network.DownloadPool$Downloader.run(DownloadPool.java:123)
-
-07:34:36.292 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-
-07:34:36.293 [ATL-Logging-Thread] ERROR - 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-
-07:34:36.295 [ATL-Logging-Thread] ERROR - 	at java.base/java.lang.Thread.run(Thread.java:1575)
-
-07:34:36.295 [ATL-Logging-Thread] ERROR - 	Suppressed: java.io.IOException: unexpected end of stream on https://resources.download.minecraft.net/...
-
-07:34:36.297 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:210)
-
-07:34:36.297 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
-
-07:34:36.302 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
-
-07:34:36.303 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.303 [ATL-Logging-Thread] ERROR - 		at com.atlauncher.Network.lambda$createProgressClient$1(Network.java:108)
-
-07:34:36.305 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.306 [ATL-Logging-Thread] ERROR - 		at com.atlauncher.network.ErrorReportingInterceptor.intercept(ErrorReportingInterceptor.java:32)
-
-07:34:36.307 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.307 [ATL-Logging-Thread] ERROR - 		at com.atlauncher.network.UserAgentInterceptor.intercept(UserAgentInterceptor.java:41)
-
-07:34:36.310 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-
-07:34:36.311 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
-
-07:34:36.311 [ATL-Logging-Thread] ERROR - 		... 18 more
-
-07:34:36.312 [ATL-Logging-Thread] ERROR - 	Caused by: java.io.EOFException: \n not found: limit=0 content=…
-
-07:34:36.314 [ATL-Logging-Thread] ERROR - 		at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.kt:332)
-
-07:34:36.315 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http1.HeadersReader.readLine(HeadersReader.kt:29)
-
-07:34:36.315 [ATL-Logging-Thread] ERROR - 		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:180)
-
-07:34:36.317 [ATL-Logging-Thread] ERROR - 		... 28 more
-
-07:34:36.319 [ATL-Logging-Thread] ERROR - java.net.SocketException: Network is unreachable: getsockopt
-	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
-	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-	at java.base/java.net.Socket.connect(Socket.java:760)
-	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:128)
-	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295)
-	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207)
-	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226)
-	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106)
-	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74)
-	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255)
-	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at com.atlauncher.network.DebugLoggingInterceptor.intercept(DebugLoggingInterceptor.java:46)
-	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201)
-	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154)
-	at com.atlauncher.network.Download.execute(Download.java:328)
-	at com.atlauncher.network.Download.downloadFile(Download.java:620)
-	at com.atlauncher.network.Download.downloadFile(Download.java:576)
-	at com.atlauncher.network.DownloadPool$Downloader.run(DownloadPool.java:123)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1575)
-	Suppressed: java.io.IOException: unexpected end of stream on https://resources.download.minecraft.net/...
-		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:210)
-		at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:110)
-		at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:93)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at com.atlauncher.Network.lambda$createProgressClient$1(Network.java:108)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at com.atlauncher.network.ErrorReportingInterceptor.intercept(ErrorReportingInterceptor.java:32)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at com.atlauncher.network.UserAgentInterceptor.intercept(UserAgentInterceptor.java:41)
-		at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109)
-		at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
-		... 18 more
-	Caused by: java.io.EOFException: \n not found: limit=0 content=…
-		at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.kt:332)
-		at okhttp3.internal.http1.HeadersReader.readLine(HeadersReader.kt:29)
-		at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:180)
-		... 28 more
-
-07:36:08.253 [ATL-Logging-Thread] INFO  - Started install of Minecraft version 1.21.4
+16:14:05.165 [ATL-Logging-Thread] INFO  - Checking for updated files!
 
