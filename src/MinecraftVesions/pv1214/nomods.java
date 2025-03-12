@@ -34,8 +34,8 @@ public class nomods {
                     JOptionPane.showMessageDialog(noModsFrame, "Token cannot be empty!", "Error", JOptionPane.ERROR_MESSAGE);
                 } else {
                     JOptionPane.showMessageDialog(noModsFrame, "Token saved: " + token, "Success", JOptionPane.INFORMATION_MESSAGE);
-                    new download();
                     noModsFrame.dispose(); // Close the frame after saving the token
+                    new download(); // Launch the download class
                 }
             }
         });
